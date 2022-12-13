@@ -1,0 +1,18 @@
+body{
+margin: auto;
+background-color: antiquewhite;
+
+}
+.container{
+    margin: 100px 50px;
+
+}
+.container h1{
+color: aqua;
+font-size: 20px;
+
+}
+h1 span{
+    color: azure;
+    font-size: 10px;
+}
